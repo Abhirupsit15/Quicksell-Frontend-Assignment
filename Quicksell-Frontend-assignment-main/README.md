@@ -23,7 +23,7 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
   </tr>
 </table>
 
-© 2024 Abhirup Sit
+© 2024 Abhirup Sit 😎
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
